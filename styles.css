@@ -11,19 +11,19 @@ body, html {
 }
 
 #markdown-content {
-    width: 30%;
+    width: 50%;
     padding: 20px;
     overflow-y: auto;
     box-sizing: border-box;
 }
 
 #map {
-    width: 55%;
+    width: 50%;
     height: 100%;
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
 }
 
