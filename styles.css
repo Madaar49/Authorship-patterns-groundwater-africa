@@ -11,14 +11,14 @@ body, html {
 }
 
 #markdown-content {
-    width: 50%;
+    width: 30%;
     padding: 20px;
     overflow-y: auto;
     box-sizing: border-box;
 }
 
 #map {
-    width: 50%;
+    width: 55%;
     height: 100%;
 }
 
@@ -29,7 +29,7 @@ img {
 
 .legend { 
     text-align: left; 
-    line-height: 16px; 
+    line-height: 18px; 
     color: #555; 
     background: white; 
     padding: 6px; 
