@@ -160,3 +160,10 @@ addGeoJsonLayer('data/LCA.geojson', 'Local co-author [%]', 'percentages');
 addGeoJsonLayer('data/ACA.geojson', 'African (co-)author [%]', 'percentages');
 addGeoJsonLayer('data/LCoA.geojson', 'Local corresponding author [%]', 'percentages_2');
 addGeoJsonLayer('data/HRI.geojson', 'Helicopter research index (HRI) [-]', '0-1');
+
+// Fetch and render markdown content
+fetch('index.md')
+    .then(response => response.text())
+    .then(text => {
+        document.getElementById('markdown-container').innerHTML = marked(text);
+    });
