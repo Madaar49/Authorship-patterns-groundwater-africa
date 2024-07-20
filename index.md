@@ -1,6 +1,6 @@
-<center>Authorship patterns in Africa's groundwater literature</center>
+# Authorship patterns in Africa's groundwater literature
 
-<center> Information Panel</center>
+## Information Panel
 
 ![](htw.png)
 
