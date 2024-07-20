@@ -1,0 +1,61 @@
+﻿Country;Country Code;Region;No of articles [-];Local co-author [-];No local co-author [-];African (co-)author [-];Local corresponding author [-];Helicopter research index (HRI) [-];Local co-author [%];African (co-)author [%];Local corresponding author [%];Country size [km²];Population [million];GDP [billion US$];Precipitation [mm/a]
+Algeria;DZA;North Africa;322;273;49;300;222;0,15;85;93;69;2.381.740;41;167;89
+Egypt;EGY;North Africa;685;563;122;572;352;0,18;82;84;51;1.001.450;98;331;18
+Libya;LBY;North Africa;82;26;56;48;15;0,68;32;59;18;1.759.540;6;29;56
+Mauritania;MRT;North Africa;11;5;6;7;3;0,55;45;64;27;1.030.700;4;5;92
+Morocco;MAR;North Africa;437;331;106;354;244;0,24;76;81;56;446.550;36;100;346
+Sudan;SDN;North Africa;104;23;81;57;13;0,78;22;55;13;1.879.360;41;84;250
+Tunisia;TUN;North Africa;533;459;74;479;384;0,14;86;90;72;163.610;12;43;207
+Western Sahara;ESH;North Africa;8;0;8;3;0;1;0;38;0;;;;
+Benin;BEN;West Africa;63;34;29;51;13;0,46;54;81;21;114.760;11;8;1.039
+Burkina Faso;BFA;West Africa;53;35;18;39;15;0,34;66;74;28;274.220;19;11;748
+Cabo Verde;CPV;West Africa;12;11;1;11;0;0,08;92;92;0;4.030;1;2;228
+Gambia;GMB;West Africa;3;0;3;1;0;1;0;33;0;11.300;2;1;836
+Ghana;GHA;West Africa;257;201;56;211;148;0,22;78;82;58;238.540;29;38;1.187
+Guinea;GIN;West Africa;42;4;38;8;1;0,9;10;19;2;245.860;13;7;1.651
+Guinea-Bissau;GNB;West Africa;1;0;1;0;0;1;0;0;0;36.130;2;1;1.577
+Ivory Coast;CIV;West Africa;31;27;4;30;15;0,13;87;97;48;322.460;24;32;1.348
+Liberia;LBR;West Africa;4;0;4;3;0;1;0;75;0;111.370;5;2;2.391
+Mali;MLI;West Africa;41;17;24;20;3;0,59;41;49;7;1.240.190;19;13;282
+Niger;NER;West Africa;163;35;128;86;10;0,79;21;53;6;1.267.000;21;7;151
+Nigeria;NGA;West Africa;655;564;91;582;415;0,14;86;89;63;923.770;191;481;1.150
+Senegal;SEN;West Africa;62;40;22;46;19;0,35;65;74;31;196.710;16;14;686
+Sierra Leone;SLE;West Africa;6;4;2;6;1;0,33;67;100;17;72.300;8;4;2.526
+Togo;TGO;West Africa;17;4;13;13;0;0,76;24;76;0;56.790;8;4;1.168
+Burundi;BDI;Central Africa;9;7;2;8;1;0,22;78;89;11;27.830;11;3;1.274
+Cameroon;CMR;Central Africa;119;88;31;94;56;0,26;74;79;47;475.440;24;29;1.604
+Central African Republic;CAF;Central Africa;4;0;4;1;0;1;0;25;0;622.980;5;2;1.343
+Chad;TCD;Central Africa;41;6;35;7;0;0,85;15;17;0;1.284.000;15;11;322
+Congo;COG;Central Africa;34;7;27;17;1;0,79;21;50;3;342.000;5;9;1.646
+Democratic Republic of Congo;COD;Central Africa;6;2;4;3;1;0,67;33;50;17;2.344.860;81;38;1.543
+Equatorial Guinea;GNQ;Central Africa;1;0;1;0;0;1;0;0;0;28.050;1;9;2.156
+Gabon;GAB;Central Africa;18;1;17;1;0;0,94;6;6;0;267.670;2;14;1.831
+Sao Tome and Principe;STP;Central Africa;1;0;1;0;0;1;0;0;0;960;0,2;0;3.200
+Comoros;COM;East Africa;2;1;1;1;0;0,5;50;50;0;1.861;1;1;900
+Djibouti;DJI;East Africa;18;11;7;13;6;0,39;61;72;33;23.200;1;2;220
+Eritrea;ERI;East Africa;14;5;9;8;2;0,64;36;57;14;117.600;5;3;384
+Ethiopia;ETH;East Africa;293;227;66;243;140;0,23;77;83;48;1.104.300;105;62;848
+Kenya;KEN;East Africa;152;75;77;90;39;0,51;49;59;26;580.370;50;63;630
+Madagascar;MDG;East Africa;30;11;19;15;6;0,63;37;50;20;587.300;26;10;1.513
+Mauritius;MUS;East Africa;7;3;4;3;0;0,57;43;43;0;2.040;1;12;2.041
+Rwanda;RWA;East Africa;9;7;2;8;6;0,22;78;89;67;26.340;12;8;1.212
+Seychelles;SYC;East Africa;0;0;0;0;0;;;;;460;0,1;1;2.330
+Somalia;SOM;East Africa;6;1;5;4;0;0,83;17;67;0;637.660;15;6;282
+South Sudan;SSD;East Africa;6;1;5;4;0;0,83;17;67;0;644.330;13;9;900
+Tanzania;TZA;East Africa;151;77;74;96;41;0,49;51;64;27;947.300;57;45;1.071
+Uganda;UGA;East Africa;68;36;32;48;13;0,47;53;71;19;241.550;43;26;1.180
+Angola;AGO;South Africa;17;1;16;8;0;0,94;6;47;0;1.246.700;30;103;1.010
+Botswana;BWA;South Africa;145;70;75;98;40;0,52;48;68;28;581.730;2;14;416
+Lesotho;LSO;South Africa;3;0;3;2;0;1;0;67;0;30.360;2;2;788
+Malawi;MWI;South Africa;80;56;24;64;27;0,3;70;80;34;118.480;19;7;1.181
+Mozambique;MOZ;South Africa;36;23;13;30;8;0,36;64;83;22;786.380;30;15;1.032
+Namibia;NAM;South Africa;101;45;56;56;20;0,55;45;55;20;824.290;3;12;285
+South Africa;ZAF;South Africa;651;545;106;557;380;0,16;84;86;58;1.219.090;57;313;495
+Swaziland / Eswatini;SWZ;South Africa;7;3;4;5;0;0,57;43;71;0;17.360;1;4;788
+Zambia;ZMB;South Africa;33;13;20;18;4;0,61;39;55;12;752.610;17;21;1.020
+Zimbabwe;ZWE;South Africa;74;50;24;60;32;0,32;68;81;43;390.760;17;14;657
+Germany;DEU;Comparison country;1687;1441;246;1645;1316;0,15;85;98;78;;;;
+Greece;GRC;Comparison country;609;505;104;588;442;0,17;83;97;73;;;;
+Mexico;MEX;Comparison country;1996;1023;973;1799;866;0,49;51;90;43;;;;
+Netherlands;NLD;Comparison country;916;774;142;876;695;0,16;84;96;76;;;;
+USA;USA;Comparison country;3789;3201;588;3296;2721;0,16;84;87;72;;;;
